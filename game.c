@@ -36,9 +36,9 @@ printf("John galito");
 
 
 
-printf("Goco")
+printf("Goco");
 printf("Giducos")
-
+printf("Malvar");
 parint("Rosales")
 
 }

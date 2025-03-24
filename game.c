@@ -1,6 +1,10 @@
 
-#include <stdio.h>
+
 int main() {
+	printf("Raper");
+
+
+
 printf("Terrence Rodriguez");
 printf("ed_mendoza")
 printf("Hi!");
@@ -9,5 +13,6 @@ printf("boy boy");
 printf("Zachary Alaba");
 
 return 0;
+
 }
 

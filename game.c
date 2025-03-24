@@ -1,5 +1,9 @@
 
+
+  
+
 int main() {
+    printf("Junrich Menardo!/n");
 	printf("Raper");
   printf("boy boy");
   printf("Nadz");
@@ -13,6 +17,7 @@ printf("SHADRACH MALAQUE")
 printf("Cresan Cuanan");
 printf("Kent Hinayon");
     return 0;
+
 
 
 

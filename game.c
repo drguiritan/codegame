@@ -1,11 +1,12 @@
 
-	
 
 
 
   
 
 int main() {
+      print("Monalia Almero!/n");
+  printf("Jospeh Pujida")
   printf("Alexander Liles");
 
     printf("Junrich Menardo!/n");
@@ -27,13 +28,18 @@ printf("SHADRACH MALAQUE")
 printf("Cresan Cuanan");
 printf("Kent Hinayon");
 printf("Julian Tatoy"); 
+
 printf("Luke Gonzaga"); 
-    return 0;
+
+printf("Luke Gonzaga");
+printf("John galito");
+
+
 
 printf("Goco")
 printf("Giducos")
 
 parint("Rosales")
-	
+
 }
 

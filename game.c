@@ -16,6 +16,7 @@ printf("Zachary Alaba");
 printf("SHADRACH MALAQUE")
 printf("Cresan Cuanan");
 printf("Kent Hinayon");
+printf("Julian Tatoy"); 
     return 0;
 
 

@@ -1,5 +1,6 @@
 #include <>
 
-int main{} {} {
+int main() {
+    printf("Hi!");
 
 }

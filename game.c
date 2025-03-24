@@ -28,11 +28,15 @@ printf("SHADRACH MALAQUE")
 printf("Cresan Cuanan");
 printf("Kent Hinayon");
 printf("Julian Tatoy"); 
+
+printf("Luke Gonzaga"); 
+
 printf("Luke Gonzaga");
 printf("John galito");
-    return 0;
 
 
+
+printf("Goco")
 printf("Giducos")
 
 parint("Rosales")

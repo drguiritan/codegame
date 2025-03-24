@@ -1,5 +1,7 @@
 #include <>
 
-int main{} {} {
+int main {
+
+char = ed_buricat
 
 }

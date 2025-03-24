@@ -1,5 +1,7 @@
-#include <>
+#include <stdio.h>
 
-int main{} {} {
-
+int main() {
+    printf("Kent Hinayon");
+    return 0;
 }
+

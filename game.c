@@ -1,8 +1,5 @@
 
-
-
-
-  
+#include <stdio.h>
 
 int main() {
       print("Monalia Almero!/n");
@@ -19,6 +16,7 @@ printf("Hi!");
 printf("genie_castillo")
 printf("boy boy");
 printf("Zachary Alaba");
+printf("Justin Tejano");
 
 
 printf("Carl Platil");

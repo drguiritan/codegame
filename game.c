@@ -2,6 +2,7 @@
 
 int main() {
 
-printf("genie_castillo")
+  printf("genie_castillo")
+  printf("boy boy");
 
 }

@@ -28,12 +28,12 @@ printf("Cresan Cuanan");
 printf("Kent Hinayon");
 printf("Julian Tatoy"); 
 printf("Luke Gonzaga"); 
-printf("Rodel apit"); 
     return 0;
 
-
+printf("Goco")
 printf("Giducos")
 
 parint("Rosales")
+	
 }
 

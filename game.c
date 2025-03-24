@@ -40,7 +40,12 @@ printf("Janallan Pandiin");
 printf("Goco");
 printf("Giducos")
 printf("Malvar");
+
+parint("Rosales")
+print("Banas")
+
 parint("Rosales");
+
 
 
 printf("Bulawin Jake")

@@ -1,5 +1,3 @@
-
-
 int main() {
 	printf("Raper");
 
@@ -11,8 +9,7 @@ printf("Hi!");
 printf("genie_castillo")
 printf("boy boy");
 printf("Zachary Alaba");
-
-return 0;
-
+printf("Kent Hinayon");
+    return 0;
 }
 

@@ -27,8 +27,8 @@ printf("SHADRACH MALAQUE")
 printf("Cresan Cuanan");
 printf("Kent Hinayon");
 printf("Julian Tatoy"); 
-printf("Luke Gonzaga"); 
-printf("Rodel apit"); 
+printf("Luke Gonzaga");
+printf("John galito");
     return 0;
 
 

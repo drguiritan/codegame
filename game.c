@@ -34,10 +34,12 @@ printf("John galito");
 
 
 
+printf("Janallan Pandiin");
 printf("Goco");
 printf("Giducos")
 printf("Malvar");
-parint("Rosales")
+parint("Rosales");
+
 
 
 }

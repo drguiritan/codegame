@@ -1,5 +1,7 @@
-#include <>
+#include <stdio.h>
 
-int main{} {} {
+int main() {
+printf("Terrence Rodriguez");
 
+return 0;
 }

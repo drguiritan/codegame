@@ -1,6 +1,15 @@
 #include <stdio.h>
 
+
 int main() {
-    printf("Cresan Cuanan");
-    return 0;
+
+
+printf("ed_mendoza")
+printf("Hi!");
+printf("genie_castillo")
+printf("boy boy");
+printf("Zachary Alaba");
+printf("Cresan Cuanan");
+return 0;
 }
+

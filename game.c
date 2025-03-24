@@ -1,5 +1,6 @@
-#include <>
+#include <stdio.h>
 
-int main{} {} {
-
+int main() {
+    printf("Cresan Cuanan");
+    return 0;
 }

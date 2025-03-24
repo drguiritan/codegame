@@ -1,10 +1,8 @@
 
-
-
-
-  
-
 int main() {
+
+      printf("Monique Virtudazo");
+
       print("Monalia Almero!/n");
   printf("Jospeh Pujida")
   printf("Alexander Liles");
@@ -40,6 +38,7 @@ printf("Goco");
 printf("Giducos")
 printf("Malvar");
 parint("Rosales")
+
 
 }
 

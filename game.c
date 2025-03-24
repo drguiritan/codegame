@@ -1,7 +1,7 @@
 
 int main() {
 
-      printf("Monique Virtudazo");
+    printf("Monique Virtudazo");
 
       print("Monalia Almero!/n");
   printf("Jospeh Pujida")
@@ -17,6 +17,7 @@ printf("Hi!");
 printf("genie_castillo")
 printf("boy boy");
 printf("Zachary Alaba");
+printf("Janallan Pandiin")
 
 
 printf("Carl Platil");
@@ -31,15 +32,23 @@ printf("Luke Gonzaga");
 
 printf("Luke Gonzaga");
 printf("John galito");
+printf("Justin Tejano");
 
 
 
+printf("Janallan Pandiin");
 printf("Goco");
 printf("Giducos")
 printf("Malvar");
+
 parint("Rosales")
 print("Banas")
 
+parint("Rosales");
 
+
+
+printf("Bulawin Jake")
+return 0;
 }
 

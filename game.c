@@ -1,7 +1,7 @@
 #include <>
 
-int main {
+int main() {
 
-char = ed_buricat
+printf("ed_mendoza")
 
 }

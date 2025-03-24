@@ -1,7 +1,7 @@
 
 int main() {
 
-      printf("Monique Virtudazo");
+    printf("Monique Virtudazo");
 
       print("Monalia Almero!/n");
   printf("Jospeh Pujida")
@@ -43,6 +43,7 @@ printf("Malvar");
 parint("Rosales");
 
 
-
+printf("Bulawin Jake")
+return 0;
 }
 
